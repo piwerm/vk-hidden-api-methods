@@ -1,2 +1,2 @@
-# vk-hidden-api-methods
-Hidden methods for VK API.
+# All hidden methods from VK API
+
